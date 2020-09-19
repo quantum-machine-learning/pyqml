@@ -8,7 +8,7 @@ setup(
   author = 'Dr. Frank Zickert',                   # Type in your name
   author_email = 'mail@pyqml.com',      # Type in your E-Mail
   url = 'https://github.com/quantum-machine-learning/pyqml',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/quantum-machine-learning/pyqml/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/quantum-machine-learning/pyqml/archive/master.tar.gz',    # I explain this later on
   keywords = ['QUANTUM', 'COMPUTING', 'MACHINE', 'LEARNING'],   # Keywords that define your package best
   install_requires=[            
           'validators',
